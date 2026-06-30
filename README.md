@@ -15,4 +15,4 @@ Em algumas regiões onde o sinal é ruim, a realização da fiscalização fica 
 Para sanar o problema, construiremos um aplicativo que permita a criação dos documentos de fiscalização mesmo sem conexão e permitindo posterior envio quando houver sinal de internet.
 É exatamente esse o meu MVP.
 
-Link para o template Lean Inception: [https://miro.com/miroverse/lean-inception-workshop/](https://miro.com/app/board/uXjVHBZOJeI=/?share_link_id=768912634511)
+Link para o template Lean Inception: https://miro.com/app/board/uXjVHBZOJeI=/?share_link_id=653673066580
